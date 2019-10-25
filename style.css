@@ -1,0 +1,29 @@
+body {
+    background: rgb(83, 88, 104);
+}
+figure img {
+    height: 250px
+    }
+#special {
+    text-align: center
+}
+#foods {
+    display:flex
+}
+h1 {
+    font-size: 450%;
+    text-align:center;
+}
+#tab {
+    display: flex;
+    list-style-type: none;
+    justify-content: center
+    }
+li {
+    padding:10px 75px 10px 10px
+
+    }
+#welcome {
+    font-size: 250%;
+    text-align: center
+}
